@@ -28,7 +28,7 @@ This tool is designed to test Apache servers for the CVE-2021-41773 / CVE-2021-4
 
 ### Example:
 ```bash
-python3 50512.py target.txt -ip 10.0.2.15 -p 4444
+python3 50512.py target.txt -ip 10.0.2.15 -port 4444
 ```
 ![apache](png/py.jpg)
 

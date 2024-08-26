@@ -26,6 +26,6 @@ If CGI is enabled: It tries to inject a reverse shell payload to gain remote acc
 For Educational Use Only: The script is intended for educational purposes to demonstrate how vulnerabilities can be tested and exploited. Using this script against unauthorized targets is illegal and unethical.
 
 ### additionally info:
-Original Author: calfcrusher@inventati.org
-Modified by: Zyx2440
+#### Original Author: calfcrusher@inventati.org
+#### Modified by: Zyx2440
 Purpose of modification: Added additional error handling and optimized the payload logic adn RCE and remove cve 

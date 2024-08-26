@@ -22,7 +22,7 @@ This tool is designed to test Apache servers for the CVE-2021-41773 / CVE-2021-4
    ```
 ### usage: 
    ```bash
-   python3 50512.py target.txt -ip <YourIp> -p <ThePort>
+   python3 50512.py target.txt -ip <YourIp> -port <ThePort>
    the text file should contain the url of the target
 ```
 

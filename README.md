@@ -12,7 +12,7 @@ This tool is designed to test Apache servers for the CVE-2021-41773 / CVE-2021-4
    cd Apache-HTTP-Server-2.4.50-RCE
 4. install The Requirements:
    ```bash
-   pip3 install -r requirements.txt
+   pip3 install -r Create add_requirements.txt
 
 5. usage: 
    ```bash

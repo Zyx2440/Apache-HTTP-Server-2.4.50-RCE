@@ -94,27 +94,17 @@ def main():
     
     banner = YELLOW = "\033[93m" f"""
 
-ZZZZZZZZZZZZZZZZZZZ                                           
-Z:::::::::::::::::Z                                           
-Z:::::::::::::::::Z                                           
-Z:::ZZZZZZZZ:::::Z                                            
-ZZZZZ     Z:::::Zyyyyyyy           yyyyyyyxxxxxxx      xxxxxxx
-        Z:::::Z   y:::::y         y:::::y  x:::::x    x:::::x 
-       Z:::::Z     y:::::y       y:::::y    x:::::x  x:::::x  
-      Z:::::Z       y:::::y     y:::::y      x:::::xx:::::x   
-     Z:::::Z         y:::::y   y:::::y        x::::::::::x    
-    Z:::::Z           y:::::y y:::::y          x::::::::x     
-   Z:::::Z             y:::::y:::::y           x::::::::x     
-ZZZ:::::Z     ZZZZZ     y:::::::::y           x::::::::::x    
-Z::::::ZZZZZZZZ:::Z      y:::::::y           x:::::xx:::::x   
-Z:::::::::::::::::Z       y:::::y           x:::::x  x:::::x  
-Z:::::::::::::::::Z      y:::::y           x:::::x    x:::::x 
-ZZZZZZZZZZZZZZZZZZZ     y:::::y           xxxxxxx      xxxxxxx
-                       y:::::y                                
-                      y:::::y                                 
-                     y:::::y                                  
-                    y:::::y                                   
-                   yyyyyyy                                   
+             ███████████                     
+            ░█░░░░░░███                      
+            ░     ███░  █████ █████████ █████
+                 ███   ░░███ ░███░░███ ░░███ 
+                ███     ░███ ░███ ░░░█████░  
+              ████     █░███ ░███  ███░░░███ 
+             ███████████░░███████ █████ █████
+            ░░░░░░░░░░░  ░░░░░███░░░░░ ░░░░░ 
+                         ███ ░███            
+                        ░░██████             
+                         ░░░░░░   
                     
 CVE:2021-42013 2021-41773 | for educational use only | https://github.com/Zyx2440
                       

